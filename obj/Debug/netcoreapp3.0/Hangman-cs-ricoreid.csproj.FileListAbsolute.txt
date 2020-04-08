@@ -1,0 +1,11 @@
+/home/rico/Documents/codecool/c_sharp/Hangman-cs-ricoreid/bin/Debug/netcoreapp3.0/Hangman-cs-ricoreid
+/home/rico/Documents/codecool/c_sharp/Hangman-cs-ricoreid/bin/Debug/netcoreapp3.0/Hangman-cs-ricoreid.deps.json
+/home/rico/Documents/codecool/c_sharp/Hangman-cs-ricoreid/bin/Debug/netcoreapp3.0/Hangman-cs-ricoreid.runtimeconfig.json
+/home/rico/Documents/codecool/c_sharp/Hangman-cs-ricoreid/bin/Debug/netcoreapp3.0/Hangman-cs-ricoreid.runtimeconfig.dev.json
+/home/rico/Documents/codecool/c_sharp/Hangman-cs-ricoreid/bin/Debug/netcoreapp3.0/Hangman-cs-ricoreid.dll
+/home/rico/Documents/codecool/c_sharp/Hangman-cs-ricoreid/bin/Debug/netcoreapp3.0/Hangman-cs-ricoreid.pdb
+/home/rico/Documents/codecool/c_sharp/Hangman-cs-ricoreid/obj/Debug/netcoreapp3.0/Hangman-cs-ricoreid.csprojAssemblyReference.cache
+/home/rico/Documents/codecool/c_sharp/Hangman-cs-ricoreid/obj/Debug/netcoreapp3.0/Hangman-cs-ricoreid.AssemblyInfoInputs.cache
+/home/rico/Documents/codecool/c_sharp/Hangman-cs-ricoreid/obj/Debug/netcoreapp3.0/Hangman-cs-ricoreid.AssemblyInfo.cs
+/home/rico/Documents/codecool/c_sharp/Hangman-cs-ricoreid/obj/Debug/netcoreapp3.0/Hangman-cs-ricoreid.dll
+/home/rico/Documents/codecool/c_sharp/Hangman-cs-ricoreid/obj/Debug/netcoreapp3.0/Hangman-cs-ricoreid.pdb

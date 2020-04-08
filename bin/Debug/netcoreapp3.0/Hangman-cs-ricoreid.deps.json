@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Hangman-cs-ricoreid/1.0.0": {
+        "runtime": {
+          "Hangman-cs-ricoreid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hangman-cs-ricoreid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

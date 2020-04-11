@@ -6,8 +6,8 @@ namespace Hangman
     {
         static void Main(string[] args)
         {
-            Inputs input = new Inputs();
-            Console.WriteLine("Hello {0}", input.getInput());
+            Update updateList = new Update('c');
+            Console.WriteLine($"Hello: {updateList.getUsedLetters()}");
         }
     }
 }

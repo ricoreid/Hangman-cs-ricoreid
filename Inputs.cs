@@ -20,7 +20,7 @@ namespace Hangman
             Console.WriteLine("Please enter a letter or, \nYou may try and get the capital:");
             userInput = Console.ReadLine();
 
-            while(userInput.Any(char.IsDigit) || userInput.Any(char.IsWhiteSpace) || userInput.Any(char.IsPunctuation)) // doesn't work for the '$'
+            while(!userInput.Any(char.IsDigit) || userInput.Any(char.IsWhiteSpace) || userInput.Any(char.IsPunctuation)) // doesn't work for the '$'
             {
                 Console.WriteLine("Invalid Input \nPlease try again:");
                 userInput = Console.ReadLine();

@@ -14,7 +14,7 @@ namespace Hangman
 {
     public class Inputs
     {
-        private string userInput;
+        private string userInput = null;
         Update letters = new Update();
 
         public string getInput()
@@ -25,8 +25,16 @@ namespace Hangman
             while (userInput.Any(char.IsDigit) || userInput.Any(char.IsWhiteSpace) || userInput.Any(char.IsPunctuation)) // doesn't work for the '$'
             {
                 Console.WriteLine("Invalid Input \nPlease try again:");
-                letters.setUsedLetters(char.Parse(userInput));
                 userInput = Console.ReadLine();
+            }
+
+            Console.WriteLine(userInput.Length);
+
+            // IList<char> usedLetters = letters.getUsedLetters();
+            if (userInput.Length == 1 ) // && !usedLetters.Contains(char.Parse(userInput))
+            {
+                Console.WriteLine("adding letter to list");
+                letters.setUsedLetters(char.Parse(userInput));
             }
 
 

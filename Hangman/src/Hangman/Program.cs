@@ -16,6 +16,7 @@ namespace Hangman
             Win won = new Win();
             Uncover word = new Uncover();
             Inputs inputs = new Inputs();
+            Update usedLetters = new Update();
 
             string countryCapital = capital.getCapital();
             string userInput = "*";
@@ -26,6 +27,9 @@ namespace Hangman
                 Console.WriteLine("********** HANGMAN **********");
                 Console.WriteLine( word.uncoverWord(hashWord, countryCapital, userInput));
                 Console.WriteLine("Life points: {0}", playerStatus.getLifePoints());
+                Console.Write("Letters used: ");
+                foreach (char letter in usedLetters.getUsedLetters().ToString())
+                    Console.Write(letter);
                 Console.WriteLine();
                 userInput = inputs.getInput();
                 if(countryCapital.Contains(userInput))

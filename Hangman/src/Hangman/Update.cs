@@ -29,13 +29,14 @@ namespace Hangman
 
         public void setUsedLetters(char newLetter)
         {
-            
+            Console.WriteLine("received letter: {0}", newLetter);
             if(usedLetters.Contains(newLetter))
             {
                 Console.WriteLine("The letter \'{0}\' has been used already", newLetter);
             }
             else
             {
+                Console.WriteLine("added");
                 usedLetters.Add(newLetter);
             }
         }

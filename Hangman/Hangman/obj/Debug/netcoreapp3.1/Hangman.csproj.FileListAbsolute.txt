@@ -1,0 +1,13 @@
+C:\Users\ricos\GitHub\csharp\Hangman-cs-ricoreid\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.exe
+C:\Users\ricos\GitHub\csharp\Hangman-cs-ricoreid\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.deps.json
+C:\Users\ricos\GitHub\csharp\Hangman-cs-ricoreid\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.runtimeconfig.json
+C:\Users\ricos\GitHub\csharp\Hangman-cs-ricoreid\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.runtimeconfig.dev.json
+C:\Users\ricos\GitHub\csharp\Hangman-cs-ricoreid\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.dll
+C:\Users\ricos\GitHub\csharp\Hangman-cs-ricoreid\Hangman\Hangman\bin\Debug\netcoreapp3.1\Hangman.pdb
+C:\Users\ricos\GitHub\csharp\Hangman-cs-ricoreid\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.csprojAssemblyReference.cache
+C:\Users\ricos\GitHub\csharp\Hangman-cs-ricoreid\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\ricos\GitHub\csharp\Hangman-cs-ricoreid\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.AssemblyInfoInputs.cache
+C:\Users\ricos\GitHub\csharp\Hangman-cs-ricoreid\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.AssemblyInfo.cs
+C:\Users\ricos\GitHub\csharp\Hangman-cs-ricoreid\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.dll
+C:\Users\ricos\GitHub\csharp\Hangman-cs-ricoreid\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.pdb
+C:\Users\ricos\GitHub\csharp\Hangman-cs-ricoreid\Hangman\Hangman\obj\Debug\netcoreapp3.1\Hangman.genruntimeconfig.cache
